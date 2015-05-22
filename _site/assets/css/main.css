@@ -15,6 +15,30 @@
 	padding: 14px 24px;
 }
 
+.promo {
+	background-position: center center;
+	background-size: cover;
+	display: block;
+	width: 100%;
+	height: 200px;
+}
+
+.promo span {
+	display: none;
+}
+
+.river {
+	background-image: url(../images/river.jpg)
+}
+
+.unixtime {
+	background-image: url(../images/unixtime.jpg)
+}
+
+.weblog {
+	background-image: url(../images/weblog.jpg)
+}
+
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
 	/* Remove the padding we set earlier */
