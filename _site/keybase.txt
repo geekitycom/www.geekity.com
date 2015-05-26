@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/andrewshell
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.geekity.com
+  * I am andrewshell (https://keybase.io/andrewshell) on keybase.
+  * I have a public key with fingerprint C5A5 7BB6 5522 7FF7 C3C9  2B89 6F94 CB06 6401 A291
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "c5a57bb655227ff7c3c92b896f94cb066401a291",
+            "host": "keybase.io",
+            "key_id": "6f94cb066401a291",
+            "kid": "0101434ff4216237a6ca64a7994d440b64e8c74978381cb22a4f5e838676a20930cd0a",
+            "uid": "a3ed5ebc88d924f06831adee920be519",
+            "username": "andrewshell"
+        },
+        "service": {
+            "hostname": "www.geekity.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1432668877,
+    "expire_in": 157680000,
+    "prev": "eb81ebba8655b6397e21d90c17df7ecf6a413d221e91fb1d57b02a77a9577aac",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMM7AnicbZJrTBxVFMd3+6DyEmwKiak0MLixlQ3Ma+/MbFAbSLEIgRKRWAtd5nFn
+mcDObGcW6IqogFoVWguFDbQ2PFWsabBFSgk0SsGmZdtQC5jSSkotNEoAi9ikaVCc
+IfWb98O9Oef8z+/ec84dDl1vCjIr9f4AwdxWa/YPphSb3hBGrpUhnCJ4EXsZUgjX
+DlGSnVB1q5LsQewIb2NtFMcBmw3HKVGkeIJncI5mgMiQPIcCQKIYizMYYkUKFM3I
+0DEcq8F4SdF9uuGQBN37P/rCtQCKoRhJkKJI4hjACYoFPAtIlmIYUiBJlAMkpHmK
+ZCiaoDGew3GWFG1QNwAFWBxlCJQXUFbHFa/hWAIKNsjxNC0wOCmigCYwVoCQwVEO
+2jDGEGpQlVkXNNSyoMJSrQAWFSHlVkQPlEg8NLpgFPNEVFpaGu+EsFDyeON5xaUT
+3KriUXilSA8WeDxuu5Hr8brXxJBzPME4OEkW9GbqCSVQ1SRFRuyYruQ9ksHVq8YB
+oGmKsiLwoFtSoUMyFDYK0Ki+jGtgiY6EHI1BjmNpfQgcIBgK4pjAoDxGCSIFeRGw
+JEYIOI5BBhM5TNDnheIsRbGMTd9YHjEKOyAriB3oz2SdOlKTnDLrKVYhUn5xMHeD
+yRxkCti4zvgOpqDA8P8+yeLusNW84Sv9jXVLzcPr9/yt7Tj6w7L8SsC3SYmLI33X
+G7SgWzXjM64Oy9kcd9eF5aL4Q2mJfsJKdGVULJWn/prY7rlrWbhZffSgG36QvNLg
+bA184VRjFtGUt32l79RUS0dA9a7XmazopoTL7fuy0GP5rbk3Chv3p/g6r17+/vmY
+u/jw6onKnZfKV+f/6Q0ZYLvfflfeP3YzfSE5yIG/5B7bNvTmh4/qc+Tnxu+/FjHx
+jnfom+iVO3WjqdkA0VKPxFb2nEg6budmtaiVI7bFFDl8Ai+5KAd6oS825Ep9Q0Ue
+sqTeXriUb/69OvhYVH7bruUt+etaxnLojzJmN/d0T6WdKdlaEcZ7E9PCJ70JZ7+K
+/StkVDx9wc4i8w/2Ti5uXZhdeDUkd7J38Do49HNbyoDlRd8D6Z75s9A9apWpKvJx
+mLR5U1Qc8KUvV11N/9Txco3la3Lw3IGNqtT3TKIl5qRlX+af1+4dHk969Mfec86y
+7s6I+1mZj6cbeXxV7tjWPddz3hqnKMnf7Q7N6XfhBcG12X1PWUvPY0PHcwE98vDL
+ymnPaVdC/3TrHd9oe/XnFb0Z2ROjhb980sTMfbHhtmsGbWj8zX9yZsfUmeadXT9F
+zG16evCt7X6itteExLw/XZMaDJbrks3RzeRkSpd2KyYuKTLyxsM88Kw/v+W9+Y8z
+TSM/IgNbmM5/AceAqgI=
+=jjXj
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/andrewshell
+
+==================================================================
